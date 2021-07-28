@@ -205,7 +205,7 @@
           <color name="focus_rect">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xDDD9C3" alpha="100" stop="0" />
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -230,7 +230,7 @@
           <color name="shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x232531" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -269,29 +269,29 @@
           <color name="link_hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x757575" alpha="100" stop="0" />
+                <color rgb="0x838CA8" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x1D1D1D" alpha="100" stop="0" />
-                <color rgb="0x0B0B0B" alpha="100" stop="255" />
+                <color rgb="0x414555" alpha="100" stop="0" />
+                <color rgb="0x2E3139" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="name_text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x727272" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -325,14 +325,14 @@
           <color name="stroke">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="inner">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xCCCCCC" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -357,29 +357,29 @@
           <color name="inner">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x1D1D1D" alpha="100" stop="0" />
-                <color rgb="0x0B0B0B" alpha="100" stop="255" />
+                <color rgb="0x414555" alpha="100" stop="0" />
+                <color rgb="0x2E3139" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x2A2A2A" alpha="100" stop="0" />
+                <color rgb="0x4F5669" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="diva">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x313131" alpha="100" stop="0" />
+                <color rgb="0x4A4E60" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="divb">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x0E0E0E" alpha="100" stop="0" />
+                <color rgb="0x2B2F3C" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -411,7 +411,7 @@
           <color name="btn_text_shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x232531" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -425,31 +425,31 @@
           <color name="btn_border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x030303" alpha="100" stop="0" />
+                <color rgb="0x232531" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="btn_hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x3A3A3A" alpha="100" stop="0" />
-                <color rgb="0x0C0C0C" alpha="100" stop="255" />
+                <color rgb="0x56596D" alpha="100" stop="0" />
+                <color rgb="0x2A2C37" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="btn_down">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x141414" alpha="100" stop="0" />
-                <color rgb="0x323232" alpha="100" stop="255" />
+                <color rgb="0x2A2C37" alpha="100" stop="0" />
+                <color rgb="0x56596D" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="btn_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x333333" alpha="100" stop="0" />
-                <color rgb="0x141414" alpha="100" stop="255" />
+                <color rgb="0x484B5B" alpha="100" stop="0" />
+                <color rgb="0x313441" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
@@ -467,14 +467,14 @@
           <color name="shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x232531" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="selected">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x3F3F3F" alpha="100" stop="0" />
+                <color rgb="0x676E8B" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -488,21 +488,21 @@
           <color name="viewed">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x878787" alpha="100" stop="0" />
+                <color rgb="0x838CA8" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x313131" alpha="100" stop="0" />
+                <color rgb="0x515669" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="lines">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x343434" alpha="100" stop="0" />
+                <color rgb="0x373B47" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -520,7 +520,7 @@
           <color name="selected">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x3F3F3F" alpha="100" stop="0" />
+                <color rgb="0x676E8B" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -534,7 +534,7 @@
           <color name="hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x1C1C1C" alpha="100" stop="0" />
+                <color rgb="0x515669" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -548,28 +548,28 @@
           <color name="diva">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x3D3D3D" alpha="100" stop="0" />
+                <color rgb="0x404656" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="divb">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x202020" alpha="100" stop="0" />
+                <color rgb="0x404656" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="divc">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x3D3D3D" alpha="100" stop="0" />
+                <color rgb="0x636979" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x333333" alpha="100" stop="0" />
+                <color rgb="0x5E6578" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -580,7 +580,7 @@
           <color name="separator">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x2C2C2C" alpha="100" stop="0" />
+                <color rgb="0x373B47" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -591,7 +591,7 @@
           <color name="search_hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x757575" alpha="100" stop="0" />
+                <color rgb="0x838CA8" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -605,21 +605,21 @@
           <color name="divc">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x343434" alpha="100" stop="0" />
+                <color rgb="0x2F323C" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="divb">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x363636" alpha="100" stop="0" />
+                <color rgb="0x525666" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="diva">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x1C1C1C" alpha="100" stop="0" />
+                <color rgb="0x2F323C" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -637,7 +637,7 @@
           <color name="div">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x2C2C2C" alpha="100" stop="0" />
+                <color rgb="0x373B47" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -648,14 +648,14 @@
           <color name="shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x232531" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x525454" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -669,14 +669,14 @@
           <color name="text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x727272" alpha="100" stop="0" />
+                <color rgb="0x838CA8" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x242424" alpha="100" stop="0" />
+                <color rgb="0x474D5E" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -694,7 +694,7 @@
           <color name="btn_icon_shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x377CB6" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -715,30 +715,30 @@
           <color name="seek_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x222222" alpha="100" stop="0" />
+                <color rgb="0x343744" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="seek_border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x1A1A1A" alpha="100" stop="0" />
-                <color rgb="0x313131" alpha="100" stop="255" />
+                <color rgb="0x272A36" alpha="100" stop="0" />
+                <color rgb="0x474C57" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x030303" alpha="100" stop="0" />
+                <color rgb="0x232531" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x333333" alpha="100" stop="0" />
-                <color rgb="0x141414" alpha="100" stop="255" />
+                <color rgb="0x484B5B" alpha="100" stop="0" />
+                <color rgb="0x323542" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
@@ -777,8 +777,8 @@
           <color name="button_hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x3A3A3A" alpha="100" stop="0" />
-                <color rgb="0x0C0C0C" alpha="100" stop="255" />
+                <color rgb="0x484B5B" alpha="100" stop="0" />
+                <color rgb="0x313441" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
@@ -792,8 +792,8 @@
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x202020" alpha="100" stop="0" />
-                <color rgb="0x161616" alpha="100" stop="255" />
+                <color rgb="0x434758" alpha="100" stop="0" />
+                <color rgb="0x232531" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
@@ -811,21 +811,21 @@
           <color name="detailb">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x1C1C1C" alpha="100" stop="0" />
+                <color rgb="0x232531" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="detaila">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x595959" alpha="100" stop="0" />
+                <color rgb="0x5B6076" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x1C1C1C" alpha="100" stop="0" />
+                <color rgb="0x232531" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -839,39 +839,38 @@
           <color name="button_border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x1C1C1C" alpha="100" stop="0" />
+                <color rgb="0x303341" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="button_inner">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x5A5A5A" alpha="100" stop="0" />
-                <color rgb="0x4A4A4A" alpha="100" stop="255" />
+                <color rgb="0x585D6E" alpha="100" stop="0" />
+                <color rgb="0x494D5A" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="button_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x4B4B4B" alpha="100" stop="0" />
-                <color rgb="0x3C3C3C" alpha="100" stop="255" />
+                <color rgb="0x474C5E" alpha="100" stop="0" />
+                <color rgb="0x3A3E4D" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x494949" alpha="100" stop="0" />
-                <color rgb="0x494949" alpha="100" stop="255" />
+                <color rgb="0x565C72" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="0">
               <colors>
-                <color rgb="0x313131" alpha="100" stop="0" />
-                <color rgb="0x363636" alpha="100" stop="128" />
+                <color rgb="0x444859" alpha="100" stop="0" />
+                <color rgb="0x4B5062" alpha="100" stop="128" />
               </colors>
             </fill>
           </color>
@@ -882,14 +881,14 @@
           <color name="shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x0E0E0E" alpha="100" stop="0" />
+                <color rgb="0x2F323B" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x242424" alpha="100" stop="0" />
+                <color rgb="0x474D5E" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -900,7 +899,7 @@
           <color name="shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x232531" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -918,7 +917,7 @@
           <color name="hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x9C9C9C" alpha="100" stop="0" />
+                <color rgb="0x838CA8" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -946,7 +945,7 @@
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x161616" alpha="100" stop="0" />
+                <color rgb="0x2F323C" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -964,7 +963,7 @@
           <color name="btn_text_shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="100" stop="0" />
+                <color rgb="0x232531" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -978,38 +977,38 @@
           <color name="btn_border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x030303" alpha="100" stop="0" />
+                <color rgb="0x232531" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="btn_hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x3A3A3A" alpha="100" stop="0" />
-                <color rgb="0x0C0C0C" alpha="100" stop="255" />
+                <color rgb="0x56596D" alpha="100" stop="0" />
+                <color rgb="0x2A2C37" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="btn_down">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x141414" alpha="100" stop="0" />
-                <color rgb="0x323232" alpha="100" stop="255" />
+                <color rgb="0x2A2C37" alpha="100" stop="0" />
+                <color rgb="0x56596D" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="btn_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x333333" alpha="100" stop="0" />
-                <color rgb="0x141414" alpha="100" stop="255" />
+                <color rgb="0x484B5B" alpha="100" stop="0" />
+                <color rgb="0x313441" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="btn_glow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x252525" alpha="100" stop="0" />
+                <color rgb="0x42454C" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1027,46 +1026,46 @@
           <color name="diva">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x0E0E0E" alpha="100" stop="0" />
+                <color rgb="0x2B2F3C" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="divb">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x313131" alpha="100" stop="0" />
+                <color rgb="0x4A4E60" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="menu_shade">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x1B1B1B" alpha="100" stop="0" />
-                <color rgb="0x0A0A0A" alpha="100" stop="255" />
+                <color rgb="0x3D4150" alpha="100" stop="0" />
+                <color rgb="0x2B2E36" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x292929" alpha="100" stop="0" />
-                <color rgb="0x292929" alpha="100" stop="255" />
+                <color rgb="0x4D5365" alpha="100" stop="0" />
+                <color rgb="0x4D5365" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x1D1D1D" alpha="100" stop="0" />
-                <color rgb="0x0B0B0B" alpha="100" stop="255" />
+                <color rgb="0x414555" alpha="100" stop="0" />
+                <color rgb="0x2E3139" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="slide_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x1D1D1D" alpha="100" stop="0" />
-                <color rgb="0x0B0B0B" alpha="100" stop="255" />
+                <color rgb="0x414555" alpha="100" stop="0" />
+                <color rgb="0x2E3139" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
@@ -1077,46 +1076,35 @@
           <color name="thumb_border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x1C1C1C" alpha="100" stop="0" />
+                <color rgb="0x303341" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="thumb_inner">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x5A5A5A" alpha="100" stop="0" />
+                <color rgb="0x535767" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="thumb_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x4C4C4C" alpha="100" stop="0" />
+                <color rgb="0x494E62" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="slider_border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x494949" alpha="100" stop="0" />
+                <color rgb="0x565C72" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="slider_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x313131" alpha="100" stop="0" />
-              </colors>
-            </fill>
-          </color>
-        </group_colors>
-      </color_group>
-      <color_group name="HTML">
-        <group_colors>
-          <color name="htmlpage_bg_color">
-            <fill type="linear" rotation="90">
-              <colors>
-                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0x4B5062" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
