@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00011000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="110" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4F81BD">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00011000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="110" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="false" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4F81BD">
   <layouts>
     <layout name="npnxnanbsnfns00011000101" font="Lato" controllayout="npnxnanbsnfns00011000101" colorscheme="pxabnsnfns00011000101" string_table="pxabnsnfns00011000101" />
     <layout name="pxabnsnfns00011000101" font="Lato" controllayout="pxabnsnfns00011000101" colorscheme="pxabnsnfns00011000101" string_table="pxabnsnfns00011000101" />
@@ -48,7 +48,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="restricted" />
+          <option name="flow" value="locked" />
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -70,7 +70,7 @@
           <option name="search" value="false" />
           <option name="closed_captions" value="false">
             <options>
-              <option name="font" value="Lato" />
+              <option name="font" value="Klaudia" />
             </options>
           </option>
           <option name="settings" value="false" />
