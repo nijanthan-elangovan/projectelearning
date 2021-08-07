@@ -48,7 +48,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="locked" />
+          <option name="flow" value="restricted" />
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -1519,27 +1519,27 @@
             <slidelink slideid="_player.6S9B2TnEUPa.6dnWdjIDeqD" displaytext="NA" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5eJMFXwiSyG" displaytext="POLYCYSTIC OVARIAN DISEASE" expand="true" type="slide">
+        <slidelink slideid="_player.5eJMFXwiSyG" displaytext="RELATED DISEASE" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5eJMFXwiSyG.6blSe39NTMA" displaytext="NA" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.61OXyJndP0h" displaytext="MENSTRUAL CYCLE &amp;amp; HEALTH" expand="true" type="slide">
+        <slidelink slideid="_player.61OXyJndP0h" displaytext="MENSTRUAL HEALTH&amp;amp; HYGEINE" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.61OXyJndP0h.5nhL7hHSWLv" displaytext="NA" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5ugiyImZBo8" displaytext="PERIOD PROBLEMS" expand="true" type="slide">
+        <slidelink slideid="_player.5ugiyImZBo8" displaytext="SPOTTINGS" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5ugiyImZBo8.5obRB1ia5fS" displaytext="NA" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5yflHdsEMV9" displaytext="SPOTTING" expand="true" type="slide">
+        <slidelink slideid="_player.5yflHdsEMV9" displaytext="MENSTRUAL HYGIENE MATERIAL" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5yflHdsEMV9.69CdcPMEDQ6" displaytext="NA" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6qqWVQZV4RU" displaytext="MENSTRUAL HYGIENE MATERIAL" expand="true" type="slide">
+        <slidelink slideid="_player.6qqWVQZV4RU" displaytext="CONCLUSION" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6qqWVQZV4RU.5sNB6YO4Yvt" displaytext="NA" expand="false" type="slide" />
           </links>
