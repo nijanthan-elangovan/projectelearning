@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="none" />
+              <option name="time_format" value="remaining" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1534,11 +1534,14 @@
             <slidelink slideid="_player.6S9B2TnEUPa.6q5uKkpNh3V" displaytext="QUESTION 2.1" expand="false" type="slide" />
             <slidelink slideid="_player.6S9B2TnEUPa.6OBNUL7bcz5" displaytext="QUESTION 2.2" expand="false" type="slide" />
             <slidelink slideid="_player.6S9B2TnEUPa.5dYqbKvNmxC" displaytext="QUESTION 3.3" expand="false" type="slide" />
+            <slidelink slideid="_player.6S9B2TnEUPa.5uXNqzV9cjM" displaytext="QUESTION 3.4" expand="false" type="slide" />
+            <slidelink slideid="_player.6S9B2TnEUPa.61inXij0i8k" displaytext="QUESTION 3.5" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5eJMFXwiSyG" displaytext="RELATED DISEASES" expand="true" type="slide">
+        <slidelink slideid="_player.5eJMFXwiSyG" displaytext="RELATED DISEASES/MENSTRUAL DISORDER" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5eJMFXwiSyG.61UPM06yjlF" displaytext="Premenstrual Syndrome" expand="false" type="slide" />
+            <slidelink slideid="_player.5eJMFXwiSyG.61UPM06yjlF" displaytext="Related Diseases" expand="false" type="slide" />
+            <slidelink slideid="_player.5eJMFXwiSyG.67K2O5HDhsk" displaytext="Related Diseases Index" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.61OXyJndP0h" displaytext="MENSTRUAL HEALTH&amp;amp; HYGEINE" expand="true" type="slide">
